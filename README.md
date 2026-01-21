@@ -1,4 +1,4 @@
-# Supervised-Learning
+# Costumer Churn Prediction
 ### Background
 
 This project is part of the Tripleten data science practium. Focuses of the project is handling class inbalance in machine learning classification.
