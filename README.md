@@ -29,7 +29,7 @@ Data provided to train model consists of clients past behaivior and termination 
 
 **Train data split ratio:** 3:1:1
 
-**Models evaluated:** DecisionTreeClassifier, RandomForestClassifier, LogisticRegression
+**Models evaluated:** DecisionTreeClassifier, RandomForestClassifier, LinearRegression
 
 ## Findings
 
